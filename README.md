@@ -15,7 +15,7 @@ The dataset is available on [Kaggle](https://www.kaggle.com/datasets/akshaydatta
 - **Model Evaluation**: Evaluates performance based on testing accuracy, precision, recall, and F1-score for both classes.
 
 ## Project Workflow
-All project work is available on [Diabetes Prediction.ipynb](). It consists of:
+All project work is available on [Diabetes Prediction.ipynb](https://github.com/LabanMutua/Diabetes-Prediction/blob/main/Diabetes%20Prediction.ipynb). It consists of:
 1. **Data Preparation**
    - Cleaned the dataset by handling outliers and imputing missing values where necessary.
    - Split the data into training and testing sets.
